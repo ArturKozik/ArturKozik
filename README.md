@@ -1,4 +1,13 @@
-# Hi there, I'm Artur! 
+### Hi there, I'm Artur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I learn and develop, sometimes I break projects, but it's all about practice and experience, isn't it? :rofl:
+
+Study every day, Upload new projects, and find out cool things and technologies.📚
+
+- 🔭 I’m currently looking for a job as Trainee/Junior iOS Developer :wink:
+- 🌱 I’m  learning Swift, UIkit, SwiftUI, Git
+- 💬 Ask me about anything related to Swift/iOS
+- 📫 How to reach me: [@goallath](https://www.linkedin.com/in/arthurkozik/)
+- ⚡ Fun fact: I :heart: :cat:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ArturKozik&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKozik&layout=compact)](https://github.com/ArturKozik/github-readme-stats" />
 
