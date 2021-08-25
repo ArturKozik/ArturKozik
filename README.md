@@ -1,4 +1,4 @@
-### Hi there, I'm Artur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi theree, I'm Artur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I learn and develop, sometimes I break projects, but it's all about practice and experience, isn't it? :rofl:
 
 Study every day, Upload new projects, and find out cool things and technologies.📚
